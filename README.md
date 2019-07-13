@@ -1,1 +1,3 @@
-# vue-demos
+# my-vue-study
+
+## vue-resource
